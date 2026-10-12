@@ -1,0 +1,6 @@
+{
+  "name": "FriendMap AI - Photo People Mapper & Interactive Balloons",
+  "description": "Interactive photo people mapper that annotates group photos with cartoon name balloons, collision-free leader lines, AI head detection, and privacy-first contact registry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
